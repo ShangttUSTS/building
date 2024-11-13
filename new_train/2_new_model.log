@@ -1,0 +1,31 @@
+D:\work\anaconda\envs\building\python.exe D:\project\STT\pythonProject\buildingEnergy\new_train\2trans_with_month_new_model.py
+D:\project\STT\pythonProject\buildingEnergy\new_train\2trans_with_month_new_model.py:55: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at  C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\torch\csrc\utils\tensor_new.cpp:204.)
+  return torch.tensor(sequences), torch.tensor(labels)
+Epoch [1/20], Loss: 0.1032, Val Loss: 0.0464
+Epoch [2/20], Loss: 0.0553, Val Loss: 0.0414
+Epoch [3/20], Loss: 0.0456, Val Loss: 0.0389
+Epoch [4/20], Loss: 0.0401, Val Loss: 0.0417
+Epoch [5/20], Loss: 0.0356, Val Loss: 0.0392
+Epoch [6/20], Loss: 0.0339, Val Loss: 0.0371
+Epoch [7/20], Loss: 0.0321, Val Loss: 0.0444
+Epoch [8/20], Loss: 0.0304, Val Loss: 0.0432
+Epoch [9/20], Loss: 0.0297, Val Loss: 0.0395
+Epoch [10/20], Loss: 0.0281, Val Loss: 0.0369
+Epoch [11/20], Loss: 0.0270, Val Loss: 0.0385
+Epoch [12/20], Loss: 0.0256, Val Loss: 0.0390
+Epoch [13/20], Loss: 0.0247, Val Loss: 0.0372
+Epoch [14/20], Loss: 0.0235, Val Loss: 0.0376
+Epoch [15/20], Loss: 0.0226, Val Loss: 0.0378
+Epoch [16/20], Loss: 0.0219, Val Loss: 0.0408
+Epoch [17/20], Loss: 0.0208, Val Loss: 0.0379
+Epoch [18/20], Loss: 0.0200, Val Loss: 0.0405
+Epoch [19/20], Loss: 0.0195, Val Loss: 0.0402
+Epoch [20/20], Loss: 0.0189, Val Loss: 0.0518
+Epoch [1/5], Finetune Loss: 0.0276
+Epoch [2/5], Finetune Loss: 0.0262
+Epoch [3/5], Finetune Loss: 0.0252
+Epoch [4/5], Finetune Loss: 0.0249
+Epoch [5/5], Finetune Loss: 0.0241
+MSE (Finetuned): 0.0192, RMSE (Finetuned): 0.1386
+
+Process finished with exit code 0

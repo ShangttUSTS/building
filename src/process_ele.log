@@ -1,0 +1,31 @@
+D:\work\anaconda\envs\building\python.exe D:\project\STT\pythonProject\buildingEnergy\src\process_data.py
+Size of train data (20216100, 4)
+Size of weather_train data (139773, 9)
+Size of weather_test_df data (277243, 9)
+Size of building_meta_df data (1449, 6)
+Mem. usage decreased to 289.19 Mb (53.1% reduction)
+Mem. usage decreased to 596.49 Mb (53.1% reduction)
+Mem. usage decreased to 1041.10 Mb (60.3% reduction)
+Mem. usage decreased to 2147.36 Mb (60.3% reduction)
+Mem. usage decreased to  3.07 Mb (68.1% reduction)
+Mem. usage decreased to  6.08 Mb (68.1% reduction)
+Mem. usage decreased to  0.03 Mb (60.3% reduction)
+True
+Weather data time span:  2016-01-01 00:00:00 — 2016-12-31 23:00:00
+Unique sites:  [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15]
+All buildings with electricity meter:  1413
+42 buildings left in the dataset.
+primary_use
+Education                        15
+Entertainment/public assembly     5
+Healthcare                        1
+Lodging/residential               4
+Manufacturing/industrial          2
+Office                           11
+Other                             1
+Public services                   3
+Name: building_id, dtype: int64
+Training dataset length: 276192
+Test dataset length: 92736
+
+Process finished with exit code 0

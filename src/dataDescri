@@ -1,0 +1,14 @@
+Label Mapping:
+datatrr.pkl
+primary_use  building_counts
+
+Education                        15
+Entertainment/public assembly     5
+Healthcare                        1
+Lodging/residential               4
+Manufacturing/industrial          2
+Office                           11
+Other                             1
+Public services                   3
+
+# Read as {0: electricity, 1: chilledwater, 2: steam, 3: hotwater}.
