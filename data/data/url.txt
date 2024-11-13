@@ -1,0 +1,4 @@
+https://aistudio.baidu.com/projectdetail/1820770?channelType=0&channel=0
+https://github.com/buds-lab/building-data-genome-project-2.git
+https://www.kaggle.com/datasets/claytonmiller/buildingdatagenomeproject2
+
